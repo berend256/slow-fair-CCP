@@ -22,7 +22,7 @@ paper.
 
 Run:
 ```bash
-python compute_recovery_sets_PG.py
+python3 compute_recovery_sets_PG.py
 ```
 
 and enter the following values when prompted:
@@ -45,7 +45,7 @@ approximation).
 
 Analogously, run:
 ```bash
-python compute_recovery_sets_AG.py
+python3 compute_recovery_sets_AG.py
 ```
 
 and enter the corresponding values of (p, k) to generate the files:
