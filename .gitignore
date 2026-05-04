@@ -1,0 +1,12 @@
+# Editor swap files
+*.swp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+env-name/
+
+# Temporary files
+temp*
