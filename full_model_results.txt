@@ -1,0 +1,89 @@
+Full-model expected times (Pólya inclusion–exclusion)
+=====================================================
+Computed on: 2026-04-19 18:22:18.993009
+
+AG(2,2):  (n, ell) = (4, 2)
+  E[T_full] = 19/5 ≈ 3.800000000000
+
+PG(2,2):  (n, ell) = (7, 3)
+  E[T_full] = 85691/15810 ≈ 5.420050600886
+
+AG(2,3):  (n, ell) = (9, 3)
+  E[T_full] = 3352087/429940 ≈ 7.796639065916
+
+PG(2,3):  (n, ell) = (13, 4)
+  E[T_full] = 1746879067753/185252315340 ≈ 9.429728662483
+
+AG(2,4):  (n, ell) = (16, 4)
+  E[T_full] = 906035556728099/72158126651545 ≈ 12.556251094258
+
+PG(2,4):  (n, ell) = (21, 5)
+  E[T_full] ≈ 14.174758507062
+    (Exact denominator has 37 digits)
+
+AG(2,5):  (n, ell) = (25, 5)
+  E[T_full] ≈ 17.886485586412
+    (Exact denominator has 50 digits)
+
+PG(2,5):  (n, ell) = (31, 6)
+  E[T_full] ≈ 19.476907624560
+    (Exact denominator has 79 digits)
+
+AG(2,7):  (n, ell) = (49, 7)
+  E[T_full] ≈ 29.807492365025
+    (Exact denominator has 203 digits)
+
+PG(2,7):  (n, ell) = (57, 8)
+  E[T_full] ≈ 31.337050068604
+    (Exact denominator has 199 digits)
+
+AG(2,8):  (n, ell) = (64, 8)
+  E[T_full] ≈ 36.261571174624
+    (Exact denominator has 312 digits)
+
+PG(2,8):  (n, ell) = (73, 9)
+  E[T_full] ≈ 37.763214199482
+    (Exact denominator has 388 digits)
+
+AG(2,9):  (n, ell) = (81, 9)
+  E[T_full] ≈ 42.984511535041
+    (Exact denominator has 458 digits)
+
+PG(2,9):  (n, ell) = (91, 10)
+  E[T_full] ≈ 44.460613572907
+    (Exact denominator has 529 digits)
+
+AG(2,11):  (n, ell) = (121, 11)
+  E[T_full] ≈ 57.116655623739
+    (Exact denominator has 899 digits)
+
+PG(2,11):  (n, ell) = (133, 12)
+  E[T_full] ≈ 58.548433417265
+    (Exact denominator has 1124 digits)
+
+AG(2,13):  (n, ell) = (169, 13)
+  E[T_full] ≈ 72.019270336620
+    (Exact denominator has 2091 digits)
+
+PG(2,13):  (n, ell) = (183, 14)
+  E[T_full] ≈ 73.414369316283
+    (Exact denominator has 1970 digits)
+
+AG(2,16):  (n, ell) = (256, 16)
+  E[T_full] ≈ 95.554731057245
+    (Exact denominator has 3480 digits)
+
+PG(2,16):  (n, ell) = (273, 17)
+  E[T_full] ≈ 96.905672724985
+    (Exact denominator has 4659 digits)
+
+AG(2,17):  (n, ell) = (289, 17)
+  E[T_full] ≈ 103.671510999592
+    (Exact denominator has 4642 digits)
+
+PG(2,17):  (n, ell) = (307, 18)
+  E[T_full] ≈ 105.009996114044
+    (Exact denominator has 4988 digits)
+
+=====================================================
+End of computation.
