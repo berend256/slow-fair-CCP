@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper."
+title: "Fano Geometry and Slow Coupon Collecting"
+authors:
+  - family-names: "Barak-Pelleg"
+    given-names: "Dina"
+  - family-names: "Berend"
+    given-names: "Daniel"
+version: "1.0"
+date-released: "2026-06-23"
+repository-code: "https://github.com/berend256/slow-fair-CCP"
